@@ -81,4 +81,4 @@ This project was developed as part of the University of Cincinnati Experiential 
 Ethan DeMoss  
 University of Cincinnati — Mechanical Engineering  
 [linkedin.com/in/Ethan-DeMoss](https://www.linkedin.com/in/Ethan-DeMoss)  
-[Engineering Calculator Repository](https://github.com/YOUR_USERNAME/engineering-calculator)
+[Engineering Calculator Repository](https://github.com/EthanDeMoss-eng/engineering-calculator)
